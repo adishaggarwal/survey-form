@@ -3,14 +3,14 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    height:190vh;
+    height:210vh;
 }
 body{
     font-family: 'Raleway', Helvetica, sans-serif;
 }
 #container{
     background: #f8f8f8;
-    height: 175vh;
+    height: 190vh;
     display: flex;
     width: 70vw;
     flex-direction: column;
@@ -68,5 +68,11 @@ textarea , #hello{
 {
     .right{
         text-align: start;
+    }
+    #main{
+        height:250vh;
+    }
+    #container{
+        height: 235vh;
     }
 }
