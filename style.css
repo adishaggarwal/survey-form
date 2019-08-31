@@ -73,11 +73,11 @@ textarea , #hello{
         height:280vh;
     }
     #container{
-        height: 250vh;
+        height: 300vh;
     }
 
     .box{
-        width: 190px;
+        width: 250px;
         height: 25px;
     }
 }
